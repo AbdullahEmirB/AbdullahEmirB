@@ -1,11 +1,12 @@
-# Merhaba Ben Abdullah Emir
+# Merhabalar Ben Abdullah Emir
 
-Ben Abdullah, tutkulu bir yazılımcıyım ve yazılım geliştirme dünyasında geniş bir bilgi ve deneyim yelpazesine sahibim. Python, JavaScript, HTML, CSS, ve daha birçok kodlama diliyle çalışıyorum.
-Özellikle web geliştirme ve yazılım çözümleri oluşturma konusunda uzmanım.
+Ben tutkulu bir yazılımcıyım ve yazılım geliştirme dünyasında geniş bir bilgi ve deneyim yelpazesine sahibim. Python, JavaScript, HTML, CSS, ve daha birçok kodlama diliyle çalışıyorum.
+Özellikle web geliştirme ve yazılım çözümleri oluşturma konusunda uzmanım. Şuan'a kadar birçok önemli projeye imza attım.
 
 Kariyerim boyunca çeşitli projelerde yer aldım ve farklı sektörlerden müşterilere yazılım çözümleri sundum. Kullanıcı dostu ve etkili web uygulamaları oluşturma konusundaki yeteneğimle tanınıyorum. 
 Hem ön yüz (frontend) hem de arka yüz (backend) geliştirme konularında deneyimliyim, bu da projeleri baştan sona kadar yönetmemi ve geliştirmemi sağlıyor.
 
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <!--s
 **AbdullahEmirB/AbdullahEmirB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
