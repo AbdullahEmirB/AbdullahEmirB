@@ -1,4 +1,4 @@
-![alt text](https://hizliresim.com/izur0ff)
+<img align="right" alt="Coding" width="400" src="https://hizliresim.com/ojpfbed">
 
 # Merhabalar Ben Abdullah Emir
 
