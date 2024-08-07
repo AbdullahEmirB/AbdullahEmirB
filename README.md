@@ -1,5 +1,5 @@
-[![MasterHead](https://hizliresim.com/izur0ff)](https://github.com/AbdullahEmirB)
-https://github.com/AbdullahEmirB
+![alt text](https://hizliresim.com/izur0ff)
+
 # Merhabalar Ben Abdullah Emir
 
 Ben tutkulu bir yazılımcıyım ve yazılım geliştirme dünyasında geniş bir bilgi ve deneyim yelpazesine sahibim. Python, JavaScript, HTML, CSS, ve daha birçok kodlama diliyle çalışıyorum.
