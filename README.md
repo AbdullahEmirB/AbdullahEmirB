@@ -1,6 +1,5 @@
 [![MasterHead](https://imgur.com/a/mH6F9e6)](https://github.com/AbdullahEmirB)
 
-# Merhabalar Ben Abdullah Emir
 
 Ben tutkulu bir yazılımcıyım ve yazılım geliştirme dünyasında geniş bir bilgi ve deneyim yelpazesine sahibim. Python, JavaScript, HTML, CSS, ve daha birçok kodlama diliyle çalışıyorum.
 Özellikle web geliştirme ve yazılım çözümleri oluşturma konusunda uzmanım. Şuan'a kadar birçok önemli projeye imza attım.
