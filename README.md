@@ -1,4 +1,4 @@
-[![MasterHead](https://hizliresim.com/ci2dzje)](https://github.com/AbdullahEmirB)
+[![MasterHead](https://hizliresim.com/izur0ff)](https://github.com/AbdullahEmirB)
 https://github.com/AbdullahEmirB
 # Merhabalar Ben Abdullah Emir
 
