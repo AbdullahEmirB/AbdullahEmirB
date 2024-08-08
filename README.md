@@ -53,9 +53,13 @@ Throughout my career, I have developed effective software solutions for clients 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AbdullahEmirB&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbdullahEmirB&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahEmirB&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahEmirB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahEmirB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahEmirB&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 
 
 
