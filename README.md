@@ -13,6 +13,7 @@ Throughout my career, I have developed effective software solutions for clients 
 - 🔭 I’m currently working on I'm working on a discord bot called Wibber Bot. 
 - 📫 How to reach me Email = abdullahemirbingol@gmail.com
 
+### ‎
 ### 💻 Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -46,7 +47,6 @@ Throughout my career, I have developed effective software solutions for clients 
   
 ### ‎‎‎‎
 ### 📊 GitHub Stats
-###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdullahEmirB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahEmirB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
