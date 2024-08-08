@@ -3,7 +3,6 @@
 # Hi !, I Am Abdullah Emir Bingöl
 ### 💻 Developer, Web Developer, Programmer
 
-### ‎‎
 ### 💫 About Me
 As a software development specialist with 4 years of experience, I am passionate about delivering high-quality solutions using technologies such as Python 🐍, JavaScript 💻, HTML 📄, CSS 🎨, and more. I have developed a deep expertise in web development and creating customized software solutions, and I am currently engaged in significant projects 🚀.
 
@@ -45,8 +44,7 @@ Throughout my career, I have developed effective software solutions for clients 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
   
-### ‎‎‎‎
-### 📊 GitHub Stats
+### ‎
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdullahEmirB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahEmirB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
