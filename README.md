@@ -30,7 +30,6 @@ Throughout my career, I have developed effective software solutions for clients 
   </a>
 </div>
 
-###
 
 ### 💻 Tech Stack
 <div align="center">
@@ -62,8 +61,7 @@ Throughout my career, I have developed effective software solutions for clients 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
-###
-
+  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -75,7 +73,6 @@ Throughout my career, I have developed effective software solutions for clients 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahEmirB&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
 
 
