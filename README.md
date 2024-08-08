@@ -53,7 +53,4 @@ Throughout my career, I have developed effective software solutions for clients 
 </div>
 
 
-###
-<img src="https://raw.githubusercontent.com/AbdullahEmirB/AbdullahEmirB/output/snake.svg" alt="Snake animation" />
 
-###
